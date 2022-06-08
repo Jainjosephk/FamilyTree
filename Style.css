@@ -1,0 +1,45 @@
+body{
+    min-height: 100%;
+    background-image: url("image/s-l1600.jpg");
+    
+    //background-attachment:fixed
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: white;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  background-color: #8458d6;
+  color: white;
+
+}
+.logo{
+  text-transform: uppercase;
+  font-family: 'Lobster', cursive;
+  letter-spacing: 5px;
+  font-size: 47px;
+  
+}
+.nav-links{
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+
+}
+.nav-links a{
+  
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight:bold;
+    font-size: 18px;
+
+}
+b
+
